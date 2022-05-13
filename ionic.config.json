@@ -1,0 +1,8 @@
+{
+  "name": "Ionic e Leaflet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "be358fd3"
+}
